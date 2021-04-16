@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{736B1B43-D2CB-11F9-DE9A-2162DC6F8D60}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/LoadScene.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GenerateCell.cs" Line="101" Column="66" />
+      <File FileName="Assets/Scripts/MoveSphere.cs" Line="48" Column="39" />
+      <File FileName="Assets/Scripts/CameraFollower.cs" Line="12" Column="1" />
+      <File FileName="Assets/Scripts/ScoreData.cs" Line="9" Column="38" />
+      <File FileName="Assets/Scripts/Score.cs" Line="13" Column="20" />
+      <File FileName="Assets/Scripts/LoadScene.cs" Line="7" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TheLineCopy" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="LoadScene.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="af9873d9-2afa-42e5-bafa-3f3d34dc736d" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
