@@ -6,6 +6,8 @@ TagManager:
   tags:
   - SwipeZone
   - Rectangle
+  - EmptyRectangle
+  - Lines
   layers:
   - Default
   - TransparentFX
